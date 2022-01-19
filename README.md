@@ -1,0 +1,2 @@
+# Sentiment-Analysis
+In this project, we performed sentiment analysis for restaurant reviews and predicted if the reviews were positive or negative. We used the Multinomial Naive Bayes algorithm and Logistic Regression CV. These models gave an accuracy score of 98% and 96% respectively. Further, we tried to test our models on different statements which were out of the dataset. These reviews were predicted correctly and hence we can say both models are good.
